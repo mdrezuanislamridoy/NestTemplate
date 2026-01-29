@@ -1,0 +1,17 @@
+node_modules
+
+# Keep environment variables out of version control
+
+
+
+/generated/prisma
+
+
+
+
+
+dist
+
+uploads
+
+config.bat
