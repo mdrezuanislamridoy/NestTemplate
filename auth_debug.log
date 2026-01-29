@@ -1,0 +1,8 @@
+2026-01-28T22:45:09.638Z - JWT Payload: {"sub":"1","email":"faslkjfaliujkdflufrjkc@virgilian.com","iat":1769635656,"exp":1770240456}
+2026-01-28T22:45:09.686Z - Authenticated: faslkjfaliujkdflufrjkc@virgilian.com
+2026-01-28T22:45:09.687Z - JWT Payload: {"sub":"1","email":"faslkjfaliujkdflufrjkc@virgilian.com","iat":1769635656,"exp":1770240456}
+2026-01-28T22:45:09.690Z - Authenticated: faslkjfaliujkdflufrjkc@virgilian.com
+2026-01-28T22:45:17.193Z - JWT Payload: {"sub":"1","email":"faslkjfaliujkdflufrjkc@virgilian.com","iat":1769635656,"exp":1770240456}
+2026-01-28T22:45:17.198Z - Authenticated: faslkjfaliujkdflufrjkc@virgilian.com
+2026-01-28T22:45:17.203Z - JWT Payload: {"sub":"1","email":"faslkjfaliujkdflufrjkc@virgilian.com","iat":1769635656,"exp":1770240456}
+2026-01-28T22:45:17.210Z - Authenticated: faslkjfaliujkdflufrjkc@virgilian.com
